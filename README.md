@@ -4,8 +4,7 @@
 This project performs Exploratory Data Analysis (EDA) and deep learning on the
 **Supermarket Sales** dataset (1,000 transactions, 17 original features).
 
-**Dataset source:** [selva86/datasets on GitHub](https://raw.githubusercontent.com/selva86/datasets/master/supermarket_sales.csv)  
-*(Mirror of the Kaggle dataset by aungpyaeap / nair26, publicly available)*
+
 
 ## Dataset — Feature Limitation Note
 The original dataset has **17 columns** (not 15+ independent features).  
