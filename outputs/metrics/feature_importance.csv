@@ -1,0 +1,15 @@
+Feature,Importance
+Month,0.165165
+Gender_enc,0.095639
+Quantity,0.090156
+Hour,0.06432
+Branch_enc,0.063779
+cogs,0.051012
+gross income,0.044201
+Tax 5%,0.035718
+Customer type_enc,0.027599
+Unit price,0.023952
+Payment_enc,0.00516
+Product line_enc,-0.03721
+City_enc,-0.042016
+DayOfWeek,-0.076198
